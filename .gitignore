@@ -1,0 +1,16 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+node_modules/
+wwwroot/
+package-lock.json
+*.csproj.user
+csx/
+rcf/
+ecf/
+report.*.json
+*.dbmdl
+*.jfm
+.vscode/
+appsettings.local.json
